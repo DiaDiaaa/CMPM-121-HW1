@@ -16,7 +16,7 @@ My inspiration comes from contemporary MMORPG map designs like CLX, Journey, Sky
 
 My main character is a young girl with long white hair and a black gown who is staring at the antique structure with her back to the camera. demonstrating her link to the historic structure
 
-## Object
+## Object List
 
 -  Architecture - from Unity Assest Store
     - Wood Bridge
