@@ -1,5 +1,5 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
     <ui:VisualElement name="VisualElement" style="height: 35px; width: 103px;">
-        <ui:Button text="Cameras" display-tooltip-when-elided="true" style="height: 30px; width: 100px; opacity: 0.8; visibility: visible; background-color: rgb(125, 199, 212); font-size: 20px;" />
+        <ui:Button text="Cameras" display-tooltip-when-elided="true" name="Button" style="height: 30px; width: 100px; opacity: 0.8; visibility: visible; background-color: rgb(125, 199, 212); font-size: 20px;" />
     </ui:VisualElement>
 </ui:UXML>
