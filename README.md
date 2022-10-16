@@ -18,19 +18,21 @@ My main character is a young girl with long white hair and a black gown who is 
 
 ## Object List
 
--  Architecture - from Unity Assest Store
+-  Architecture - from Unity Asset Store
     - Wood Bridge
     - Modular House Floor 2
     - Modular House 1  
     - Modular House 4
     - Modular House Floor 3
-- Stone Bridge - from Unity Assest Store
+- Stone Bridge - from Unity Asset Store
     - Straight Bridge
     - Arch Bridge
-- Chinese Ting - from Unity Assest Store
-- Skybox - from Unity Assest Store
-- Terrain - All from Unity Assest Store
+- Chinese Ting - from Unity Asset Store
+- Light lamp - from Unity Asset Store
+- Statue - from Unity Store
+- Starry Night - Skybox - from Unity Asset Store
+- Terrain - All from Unity Asset Store
     - Tree: Fruit Tree 1, Grass 2, Poppy Flower 2
     - Grass: Grass_High
 - Water Plain - primitive GameObject
-- Character: angGirl - from Unity Assest Store
+- Character: angGirl - from Unity Asset Store
