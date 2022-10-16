@@ -11,7 +11,7 @@ public class translate : MonoBehaviour
     }
 
     //movement speed in units per second
-    private float movementSpeed = 15f;
+    private float movementSpeed = 30f;
 
     // Update is called once per frame
     void Update()
